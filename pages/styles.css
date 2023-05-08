@@ -1,0 +1,172 @@
+h1{
+    color:#4A1A56;
+}
+h2{
+    color: #4A1A56;
+}
+h3{
+    color: #4A1A56;
+}
+h4{
+    color: #4A1A56;
+}
+
+ul{
+    color: rgb(40, 60, 145);
+}
+ol{
+    color:rgb(40, 60, 145);
+}
+thead{
+    color: #3D1A94;
+}
+tbody{
+    color: rgb(40, 60, 145);
+}
+p{
+    color: rgb(40, 60, 145);
+}
+
+a:hover{
+    color:#48D66A ;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 1.6em;
+    margin: 0;
+    background-color: #D1D4E1  ;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+.box-1{
+    background-color: gray;
+    color: gainsboro;
+    border-right: 5px red solid;
+    border-width:5px;
+    padding: 20px;
+    margin-top: 20px;
+    margin: 20px 0;
+    border-radius: 15px;
+
+}
+
+.box-1 h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+img{
+    padding-left: 80px;
+    margin-left: 85px;
+}
+
+.container-2{
+    width: 30px;
+    margin: auto;
+    padding-top: 0px;
+}
+
+.box-2{
+    background-color: gray;
+    color: gainsboro;
+    border-right: 5px red solid;
+    border-width:5px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 300px;
+    margin: 20px;
+    border-radius: 15px;
+
+}
+
+.box-2 h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+.container-3{
+    width: 700px;
+    margin: auto;
+    padding-right: 500px;
+}
+
+.content-table{
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    min-width: 400px;
+}
+.content-table thead tr{
+    background-color: #707572 ;
+    color: #D1D4E1;
+    text-align: left;
+    font-weight: bold;
+}
+.content-table th,
+.content-table td{
+    padding: 12px 15px;
+}
+
+
+.content-table tbody tr:nth-of-type(even){
+    background-color: darkgray;
+}
+
+.box-3{
+    background-color: gray;
+    color: gainsboro;
+    border-right: 5px red solid;
+    border-width:5px;
+    padding: 10px;
+    margin-top: 20px;
+    margin: 20px 0;
+    border-radius: 15px;
+
+
+}
+.box-3 h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+.container-4{
+    width:800px;
+    margin: auto;
+    padding-left: 500px;
+}
+.box-4{
+    background-color: gray;
+    color: gainsboro;
+    border-radius: 15px;
+    border-right: 5px red solid;
+    border-width: 5px;
+    padding: 10px;
+    margin-top: 20px;
+    margin: 20px;
+}
+.box-4 h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
